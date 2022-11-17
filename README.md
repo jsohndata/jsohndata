@@ -15,4 +15,4 @@ About: Fun experimental project creating bubbles trails based on mouse movement.
 
 **Get to the repo 🚁** [https://github.com/jsohndata/bubble-trails-javascript](https://github.com/jsohndata/bubble-trails-javascript)
 
-[![Play with it.]([https://github.com/jsohndata/bubble-trails-javascript/blob/main/src/readme-bubble-trails.gif](https://chilldoodle.web.app/bubble-trails)]
+[![Play with it.](https://github.com/jsohndata/bubble-trails-javascript/blob/main/src/readme-bubble-trails.gif)](https://chilldoodle.web.app/bubble-trails)
