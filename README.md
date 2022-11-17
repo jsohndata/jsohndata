@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 ### Title: Bubble Trails
 About: Fun experimental project creating bubbles trails based on mouse movement.
 
-**Play With It 👾** [https://chilldoodle.web.app/bubble-trails](https://chilldoodle.web.app/bubble-trails) 
+**Play with it 👾** [https://chilldoodle.web.app/bubble-trails](https://chilldoodle.web.app/bubble-trails) 
 
-**Get To The Repo 🚁** [https://github.com/jsohndata/bubble-trails-javascript](https://github.com/jsohndata/bubble-trails-javascript)
+**Get to the repo 🚁** [https://github.com/jsohndata/bubble-trails-javascript](https://github.com/jsohndata/bubble-trails-javascript)
 
 [![Watch Trailer](https://raw.githubusercontent.com/jsohndata/bubble-trails-javascript/main/src/readme-bubble-trails.gif)](https://www.youtube.com/watch?v=6Nhmg4nCPXE)
