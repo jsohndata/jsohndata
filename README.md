@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jsohndata
-- 🌱 I’m continously working on React.JS, Python, Javascript.
-- 💞️ I’m looking to get more into Blockchain, Machine Learning (ML), or AI.
+- 🌱 I’m continously working on React.JS, Python, and Javascript.
+- 💞️ I’m looking to get more into Blockchain, Machine Learning (ML), and AI.
 
 <!---
 jsohndata/jsohndata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
