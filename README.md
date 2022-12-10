@@ -8,15 +8,14 @@ React.JS, Python, Javascript and intentional design are my jam. Additionally Blo
 <br>
 
 ## Recent Gist
-### Colorful Git Branch Terminal Prompt (OS X Monterey)
+Colorful Git Branch Terminal Prompt (OS X Monterey)
 [![Demo of color theme](https://jsohndata.s3.amazonaws.com/images/github-readme/git-branch-colorful-135-14-162.png)](https://gist.github.com/jsohndata/7d5a252de861c2fe3c1eb4c4143be02d)
 [See the code on Gist](https://gist.github.com/jsohndata/7d5a252de861c2fe3c1eb4c4143be02d)
 
 <br>
 
 ## Recent Project
-### Bubble Trails
-About: Fun experimental project creating bubbles trails based on mouse movement.
+Bubble Trails: Fun experimental project creating bubbles trails based on mouse movement.
 
 **Play with it 👾** [https://chilldoodle.web.app/bubble-trails](https://chilldoodle.web.app/bubble-trails) 
 
