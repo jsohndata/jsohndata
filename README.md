@@ -7,8 +7,13 @@ jsohndata/jsohndata is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+# Recent Gist
+### Colorful Git Branch Terminal Prompt (OS X Monterey)
+![Demo of color theme](https://jsohndata.s3.amazonaws.com/images/github-readme/git-branch-colorful-135-14-162.png)
+[See the code](https://gist.github.com/jsohndata/7d5a252de861c2fe3c1eb4c4143be02d)
+
 # Recent Project
-### Title: Bubble Trails
+### Bubble Trails
 About: Fun experimental project creating bubbles trails based on mouse movement.
 
 **Play with it 👾** [https://chilldoodle.web.app/bubble-trails](https://chilldoodle.web.app/bubble-trails) 
