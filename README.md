@@ -4,6 +4,7 @@ React.JS, Python, Javascript and intentional design are my jam. Additionally Blo
 ## Links
 - [Github Gist](https://gist.github.com/jsohndata)
 - [Linkedin](https://www.linkedin.com/in/jsohndata/)
+- [Youtube](https://www.youtube.com/@jsohndata/videos)
 
 <br>
 
