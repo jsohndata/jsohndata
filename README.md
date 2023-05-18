@@ -1,6 +1,6 @@
 
 
-<div style="float: left; margin-right: 10px;">  
+<div style="display:flex; flex-direction: row">  
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsohndata&show_icons=true&theme=radical&card_width=500)
 
@@ -10,7 +10,7 @@
 
  </div>
  
- <div style="float: right; margin-left: 10px;">  
+ <div>  
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsohndata&show_icons=true&theme=radical&card_width=500)
 
