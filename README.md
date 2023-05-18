@@ -6,5 +6,5 @@
 
 
   
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jsohndata&theme=github_dark&layout=donut&border=false)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jsohndata&theme=github_dark&layout=donutchart&border=false)
 
