@@ -2,7 +2,7 @@
   
 ## Hello I am jsohnData 🌊
 
-I am a software engineer residing in south Florida. I love JavaScript, React.js, CSS, Python, MongoDB and more. When I'm not crafting code, you will find me tending to my garden, keeping my Belgian Malinois on her toes (paws), and revving up my Ducati like it's an API.
+I'm a software engineer residing in the beautiful region of South Florida. My coding journey is driven by a genuine passion for technologies such as JavaScript, React.js, CSS, Python, and MongoDB, among others. Beyond the realm of code, I find solace in nurturing my garden, ensuring my Belgian Malinois remains alert and active, and igniting my Ducati with the same vigor one would approach an API. Join me as we embark on an exploration of software engineering, intertwined with the delights of nature, the companionship of loyal pets, and the exhilaration of two-wheeled adventures.
 
 <div align="center">  
   
