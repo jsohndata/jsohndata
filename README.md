@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" src="https://camo.githubusercontent.com/6b6e0e9e3282deb0e6e2e9880c7128f4346e797a529866c95a11a80698fb8a40/68747470733a2f2f6a736f686e646174612e73332e616d617a6f6e6177732e636f6d2f696d616765732f6769746875622d726561646d652f726561646d652d6865726f2e77656270"  />
   
-# Hello, I am jsohnData -- Jiho Sohn
+# Hello, I am jsohnData – Jiho Sohn
 </div>
 
 ###
