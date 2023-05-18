@@ -1,6 +1,6 @@
 <div style="width: 500px;">
   
-## Hello I am jsohnData
+## Hello I am jsohnData 🌊
 
 I am a software engineer residing in south Florida. I love JavaScript, React.js, CSS, Python, MongoDB and more. When I'm not crafting code, you will find me tending to my garden, keeping my Belgian Malinois on her toes (paws), and revving up my Ducati like it's an API.
 
