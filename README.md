@@ -33,16 +33,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jsohndata/jsohndata/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-
-
 <div align="center">  
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=jsohndata&theme=tokyonight&date_format=%5BY.%5Dn.j&mode=weekly&card_width=500)
-
- </div>
+</div>
 
