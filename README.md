@@ -1,4 +1,4 @@
-<div style="width: 500px:">
+<div style="width: 500px;">
   
 ## Hello I am jsohnData
 
