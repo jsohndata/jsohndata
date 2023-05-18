@@ -5,4 +5,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jsohndata&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&hide_total_contributions=true&width=100%)](https://git.io/streak-stats)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jsohndata&theme=github_dark&layout=default&langs_count=10&card_width=800&hide_title=true)
+<figure><embed src="https://wakatime.com/share/@jsohndata/f9f6b961-5429-4dce-8320-82d3fc9a519f.svg"></embed></figure>
