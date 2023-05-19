@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://notiempo.lol/mozartsghost/r" target="_blank" rel="noreferrer"><img width="100%" src="https://jsohndata.s3.amazonaws.com/images/github-readme/jsohndata-readme-2.webp"  /></a>
   
-  <h1>안녕하세요! <br />제 이름은 <span style="color:orange;">손지호(孙志镐)</span>입니다. 👋🏽</h1>
+  <h1>안녕하세요! <br />제 이름은 손지호(孙志镐)입니다. 👋🏽</h1>
 </div>
 
 ###
