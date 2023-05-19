@@ -4,8 +4,6 @@
   <h1>안녕하세요! <br />제 이름은 손지호(孙志镐)입니다. 👋🏽</h1>
 </div>
 
-###
-
 <p>Hello! My name is Jiho (jsohnData). I am a software engineer residing in the beautiful region of South Florida. My coding journey is driven by a genuine passion for technologies such as JavaScript, React.js, CSS, Python, and MongoDB, among others. Beyond the realm of code, I find solace in nurturing my garden, ensuring my Belgian Malinois remains alert and active, and igniting my Ducati with the same vigor one would approach an API.</p>
 <p>During the day I proudly work as a senior instructor at Boca Code, where I have the privilege of working with the next generation of software engineers. I take a contrarian approach to teaching, encouraging my students to think critically as individuals and as part of a team.</p>
 
@@ -16,7 +14,7 @@
     <a href="https://www.linkedin.com/in/jsohndata/" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="youtube logo"  /></a>
 </div>
 
-###
+<br /><br />
 
 
 <div align="center">
@@ -24,7 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsohndata&theme=github_dark&layout=compact" height="150" alt="languages graph"  />
 </div>
 
-###
+<br /><br />
 
 <div align="center">  
   
