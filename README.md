@@ -19,7 +19,7 @@
 
 
 <div align="center">
-    <h2>99 Problems, but Stats Ain't One</h2>
+    <h3>99 Problems, but Stats Ain't One</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=jsohndata&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsohndata&theme=github_dark&layout=compact" height="150" alt="languages graph"  />
 </div>
@@ -35,7 +35,7 @@
 <br /><br />
 
 <div align="center">
-      <h2>Skills: That Pays Some of The Bills</h2>
+      <h3>Skills, That Pays Some of The Bills</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
