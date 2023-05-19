@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://notiempo.lol/mozartsghost/r" target="_blank" rel="noreferrer"><img width="100%" src="https://jsohndata.s3.amazonaws.com/images/github-readme/jsohndata-readme-2.webp"  /></a>
   
-  <h1>안녕하세요! <br />제 이름은 손지호(孙志镐)입니다. 👋🏽</h1>
+  <h1>안녕하세요! <br />제 이름은 손지호(孙志镐, Jiho Sohn)입니다. 👋🏽</h1>
 </div>
 
 ###
 
-<p>Hello! My name is Jiho. I am a software engineer residing in the beautiful region of South Florida. My coding journey is driven by a genuine passion for technologies such as JavaScript, React.js, CSS, Python, and MongoDB, among others. Beyond the realm of code, I find solace in nurturing my garden, ensuring my Belgian Malinois remains alert and active, and igniting my Ducati with the same vigor one would approach an API.</p>
+<p>Hello! My name is Jiho (jsohnData). I am a software engineer residing in the beautiful region of South Florida. My coding journey is driven by a genuine passion for technologies such as JavaScript, React.js, CSS, Python, and MongoDB, among others. Beyond the realm of code, I find solace in nurturing my garden, ensuring my Belgian Malinois remains alert and active, and igniting my Ducati with the same vigor one would approach an API.</p>
 <p>During the day I proudly work as a senior instructor at Boca Code, where I have the privilege of working with the next generation of software engineers. I take a contrarian approach to teaching, encouraging my students to think critically as individuals and as part of a team.</p>
 
 <br />
