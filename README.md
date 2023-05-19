@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://jsohndata.s3.amazonaws.com/images/github-readme/jsohndata-readme-2.webp"  />
+  <a href="https://notiempo.lol/mozartsghost/r" target="_blank"><img width="100%" src="https://jsohndata.s3.amazonaws.com/images/github-readme/jsohndata-readme-2.webp"  /></a>
   
 # 안녕하세요! <br />제 이름은 손지호(孙志镐) 입니다. 👋🏽
 </div>
