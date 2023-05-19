@@ -42,6 +42,11 @@
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=jsohndata&theme=tokyonight&date_format=%5BY.%5Dn.j&mode=weekly&card_width=500)
   
+</div>
 
+<div align="center">
+* YouTube: https://www.youtube.com/@jsohndata
+* LinkedIn: https://www.linkedin.com/in/jsohndata/
+* Website: https://jsohndata.com/
 </div>
 
