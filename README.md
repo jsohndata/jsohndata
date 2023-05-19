@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left" font-size="14">I'm a software engineer residing in the beautiful region of South Florida. My coding journey is driven by a genuine passion for technologies such as JavaScript, React.js, CSS, Python, and MongoDB, among others. Beyond the realm of code, I find solace in nurturing my garden, ensuring my Belgian Malinois remains alert and active, and igniting my Ducati with the same vigor one would approach an API. Join me as we embark on an exploration of software engineering, intertwined with the delights of nature, the companionship of loyal pets, and the exhilaration of two-wheeled adventures.</p>
+<p align="left" style="font-size: 18px;">I'm a software engineer residing in the beautiful region of South Florida. My coding journey is driven by a genuine passion for technologies such as JavaScript, React.js, CSS, Python, and MongoDB, among others. Beyond the realm of code, I find solace in nurturing my garden, ensuring my Belgian Malinois remains alert and active, and igniting my Ducati with the same vigor one would approach an API. Join me as we embark on an exploration of software engineering, intertwined with the delights of nature, the companionship of loyal pets, and the exhilaration of two-wheeled adventures.</p>
 
 <br />
 
