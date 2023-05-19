@@ -45,8 +45,10 @@
 </div>
 
 <div align="center">
-* YouTube: https://www.youtube.com/@jsohndata
-* LinkedIn: https://www.linkedin.com/in/jsohndata/
-* Website: https://jsohndata.com/
+<a href="https://www.youtube.com/@jsohndata"><img src="https://assenfuego.com/dist/social/square/youtube.svg" height="40" width="52" alt="youtube logo"  />@jsohndata</a>
+
+<a href="[https://www.youtube.com/@jsohndata](https://www.linkedin.com/in/jsohndata/)"><img src="https://assenfuego.com/dist/social/square/linkedin.svg" height="40" width="52" alt="youtube logo"  />jsohndata</a>
+  
+<a href="[https://www.youtube.com/@jsohndata](https://www.linkedin.com/in/jsohndata/)"><img src="https://assenfuego.com/dist/social/square/linkedin.svg" height="40" width="52" alt="youtube logo"  />jsohndata</a>
 </div>
 
