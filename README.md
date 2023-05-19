@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" src="https://jsohndata.s3.amazonaws.com/images/github-readme/jsohndata-readme-2.webp"  />
   
-# 안녕하세요!
+# 안녕하세요, 제 이름은 손지호(孙志镐) 입니다.
 </div>
 
 ###
