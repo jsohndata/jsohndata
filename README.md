@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://jsohndata.s3.amazonaws.com/images/github-readme/jsohndata-profile.webp"  />
+  <img width="100%" src="https://jsohndata.s3.amazonaws.com/images/github-readme/jsohndata-readme-2.webp"  />
   
 # Hello, I am jsohnData – Jiho Sohn
 </div>
