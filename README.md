@@ -1,7 +1,8 @@
 <div align="center">
   <a href="https://notiempo.lol/mozartsghost/r" target="_blank" rel="noreferrer"><img width="100%" src="https://jsohndata.s3.amazonaws.com/images/github-readme/jsohndata-readme-2.webp"  /></a>
   
-  <h1>안녕하세요! <br />제 이름은 손지호(孙志镐)입니다. 👋🏽</h1>
+  <h1>안녕하세요, 반갑습니다!<br />저는 손지호(孙志镐)입니다. 👋🏽</h1>
+ 
 </div>
 
 <p>Hello! My name is Jiho (jsohnData). I am a software engineer residing in the beautiful region of South Florida. My coding journey is driven by a genuine passion for technologies such as JavaScript, React.js, CSS, Python, and MongoDB, among others. Beyond the realm of code, I find solace in nurturing my garden, ensuring my Belgian Malinois remains alert and active, and igniting my Ducati with the same vigor one would approach an API.</p>
