@@ -16,6 +16,15 @@
     <a href="https://www.linkedin.com/in/jsohndata/" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="youtube logo"  /></a>
 </div>
 
+<div align="center">
+<a href="https://codepen.io/jsohndata/pens/public" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="codepen logo"  />
+  </a>
+  <a href="https://codesandbox.io/u/jsohndata" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="50" alt="codesandbox logo"  />
+  </a>
+</div>
+
 <br /><br />
 
 
