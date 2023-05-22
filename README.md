@@ -68,7 +68,7 @@
 
 <br /><br />
 
-<div align="center" style="width: 500px;">
+<div align="left">
  
 <h3>Legends</h3>
 
