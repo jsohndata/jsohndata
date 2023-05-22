@@ -66,5 +66,16 @@
 
 <br /><br />
 
+<div align="center">
+  <h3>Legends</h3>
+  * 📙 [Docs](https://github.com/stars/jsohndata/lists/docs): A comprehensive collection of resources and guides covering a wide range of topics, including React, CSS, API, Build Recipes, and more.
+  * 🧰 [Toolbox](https://github.com/stars/jsohndata/lists/toolbox): An essential compilation of tools and resources to support various tasks and workflows.
+  * 🚀 [Launch](https://github.com/stars/jsohndata/lists/launch): A showcase of successfully deployed projects and completed works.
+  * 🌩️ [API](https://github.com/stars/jsohndata/lists/api): An Express.js-powered application that offers a comprehensive RESTful API, encompassing CRUD functionality and additional features.
+</div>
+  
+ 
+
+
 <div align="center">💪🏽必勝</div>
   
