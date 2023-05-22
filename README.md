@@ -73,14 +73,13 @@
 </div>
 
 <div align="left">
-<p><a href="https://github.com/stars/jsohndata/lists/api">📙 <strong>Docs</strong>: A comprehensive collection of resources and guides covering a wide range of topics, including React, CSS, API, Build Recipes, and more.</a></p>
+<p><a href="https://github.com/stars/jsohndata/lists/docs">📙 <strong>Docs</strong></a>: A comprehensive collection of resources and guides covering a wide range of topics, including React, CSS, API, Build Recipes, and more.</p>
 
-<p>🧰 <strong>Toolbox</strong>: An essential compilation of tools and resources to support various tasks and workflows.
-</p>
+<p><a href="https://github.com/stars/jsohndata/lists/launch">🚀 <strong>Launch</strong></a>: A showcase of successfully deployed projects and completed works.</p>
 
-<p>🚀 <strong>Launch</strong>: A showcase of successfully deployed projects and completed works.</p>
-
-<p>🌩️ <strong>API</strong>: An Express.js-powered application that offers a comprehensive RESTful API, encompassing CRUD functionality and additional features.</p>
+<p><a href="https://github.com/stars/jsohndata/lists/api">🌩️ <strong>API</strong></a>: An Express.js-powered application that offers a comprehensive RESTful API, encompassing CRUD functionality and additional features.</p>
+  
+<p><a href="https://github.com/stars/jsohndata/lists/toolbox">🧰 <strong>Toolbox</strong></a>: An essential compilation of tools and resources to support various tasks and workflows.</p>
 </div>
   
  
