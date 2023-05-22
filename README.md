@@ -69,7 +69,7 @@
 <br /><br />
 
 <div align="center">
-  <h3>Legends</h3>
+  <h3>Repo Legends</h3>
 </div>
 
 <div align="left">
