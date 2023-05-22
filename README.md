@@ -51,13 +51,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="65" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="65" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="65" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="65" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" width="65" alt="mongodb logo"  />
 </div>
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" width="65" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" width="65" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" width="65" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="65" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" width="65" alt="sass logo"  />
+</div>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50" width="65" alt="photoshop logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="50" width="65" alt="illustrator logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" width="65" alt="figma logo"  />
@@ -69,13 +71,15 @@
 <div align="center">
  
 <h3>Legends</h3>
-<ul>
-<li>📙 <strong>Docs</strong>: A comprehensive collection of resources and guides covering a wide range of topics, including React, CSS, API, Build Recipes, and more.</li>
-  
-<li>🧰 <strong>Toolbox</strong>: An essential compilation of tools and resources to support various tasks and workflows.</li>
-<li>🚀 <strong>Launch</strong>: A showcase of successfully deployed projects and completed works.</li>
-  <li>🌩️ <strong>API</strong>: An Express.js-powered application that offers a comprehensive RESTful API, encompassing CRUD functionality and additional features.</li>
-</ul>
+
+<p>📙 <strong>Docs</strong>: A comprehensive collection of resources and guides covering a wide range of topics, including React, CSS, API, Build Recipes, and more.</p>
+
+<p>🧰 <strong>Toolbox</strong>: An essential compilation of tools and resources to support various tasks and workflows.
+</p>
+
+<p>🚀 <strong>Launch</strong>: A showcase of successfully deployed projects and completed works.</p>
+
+<p>🌩️ <strong>API</strong>: An Express.js-powered application that offers a comprehensive RESTful API, encompassing CRUD functionality and additional features.</p>
 </div>
   
  
