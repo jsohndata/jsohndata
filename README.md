@@ -68,10 +68,11 @@
 
 <br /><br />
 
-<div align="left">
- 
-<h3>Legends</h3>
+<div align="center">
+  <h3>Legends</h3>
+</div>
 
+<div align="center">
 <p>📙 <strong>Docs</strong>: A comprehensive collection of resources and guides covering a wide range of topics, including React, CSS, API, Build Recipes, and more.</p>
 
 <p>🧰 <strong>Toolbox</strong>: An essential compilation of tools and resources to support various tasks and workflows.
