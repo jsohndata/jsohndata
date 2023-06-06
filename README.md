@@ -38,7 +38,7 @@
 
 <div align="center">  
   
-![GitHub Streak](https://streak-stats.demolab.com?user=jsohndata&theme=tokyonight&date_format=%5BY.%5Dn.j&mode=weekly&card_width=500)
+![GitHub Streak](https://streak-stats.demolab.com?user=jsohndata&theme=tokyonight&date_format=%5BY.%5Dn.j&mode=weekly&card_width=800)
   
 </div>
 
