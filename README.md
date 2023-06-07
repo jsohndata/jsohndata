@@ -30,16 +30,11 @@
 
 <div align="center">
     <h3>99 Problems, But Stats Ain't One</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=jsohndata&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" width="800" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jsohndata&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" width="600" alt="stats graph"  />
   
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsohndata&theme=github_dark&layout=compact" width="800" alt="languages graph"  />
-</div>
-
-<br />
-
-<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jsohndata&theme=github_dark&layout=compact" width="600" alt="languages graph"  />
   
-![GitHub Streak](https://streak-stats.demolab.com?user=jsohndata&theme=tokyonight&date_format=%5BY.%5Dn.j&mode=weekly&card_width=800)
+![GitHub Streak](https://streak-stats.demolab.com?user=jsohndata&theme=tokyonight&date_format=%5BY.%5Dn.j&mode=weekly&card_width=600)
   
 </div>
 
