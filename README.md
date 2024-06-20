@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://notiempo.lol/mozartsghost/r" target="_blank" rel="noreferrer"><img width="100%" src="https://jsohndata.s3.amazonaws.com/images/github-readme/jsohndata-readme-2.webp"  /></a>
+  <a href="https://jsohndata.github.io/no-tiempo/mozartsghost?id=r" target="_blank" rel="noreferrer"><img width="100%" src="https://luminkai.com/images/profile/ai-v1.webp"  /></a>
   
   <h1>안녕하세요, 반갑습니다!<br />저는 손지호(孙志镐)입니다. 👋🏽</h1>
 </div>
